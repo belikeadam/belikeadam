@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-const Adam = {
+## const Adam = {
   Gender: ["Guy"],
   code: [
     "Flutter", "HTML/CSS", "PHP", "SQL", "JavaScript", "TypeScript",
@@ -13,5 +10,8 @@ const Adam = {
   ],
   school: ["Segi College Kuala Lumpur"]
 }
+
+<!--
+
 
 -->
