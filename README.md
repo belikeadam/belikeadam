@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 <!--
-**belikeadam/belikeadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const Adam = {
+  Gender: ["Guy"],
+  code: [
+    "Flutter", "HTML/CSS", "PHP", "SQL", "JavaScript", "TypeScript",
+    "Next.js", "React", "Express.js", "Node.js", "Tailwind", "WordPress",
+    "Github", "Photoshop"
+  ],
+  tools: [
+    "React", "Next.js", "Tailwind", "MongoDB", "Node.js"
+  ],
+  school: ["Segi College Kuala Lumpur"]
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
