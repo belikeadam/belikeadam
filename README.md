@@ -1,4 +1,5 @@
- const Adam = {
+```javascript
+const Adam = {
   Gender: ["Guy"],
   code: [
     "Flutter", "HTML/CSS", "PHP", "SQL", "JavaScript", "TypeScript",
@@ -10,5 +11,3 @@
   ],
   school: ["Segi College Kuala Lumpur"]
 }
-
- 
